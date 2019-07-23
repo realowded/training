@@ -1,4 +1,6 @@
-let double = function(x){
-    return x*2;
+function double(num){
+    return n*2;
 }
-double(5);
+
+var x = 3;
+double(x);
